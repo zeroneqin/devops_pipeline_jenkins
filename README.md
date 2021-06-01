@@ -1,4 +1,4 @@
-# DevOps Pipeline for Jenkins
+# DevOps Pipeline for Jenkins(Include Quality Gate)
 
 
 
